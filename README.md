@@ -55,7 +55,7 @@ To accelerate contributions to and innovations around torchtitan, we are hosting
 
 1. Multi-dimensional composable parallelisms
    - [FSDP2](docs/fsdp.md) with per-parameter sharding
-   - [Tensor Parallel](https://pytorch.org/docs/stable/distributed.tensor.parallel.html) (including [async TP](https://discuss.pytorch.org/t/distributed-w-torchtitan-introducing-async-tensor-parallelism-in-pytorch/209487))
+   - [Tensor Parallel](https://docs.pytorch.org/docs/stable/distributed.tensor.parallel.html) (including [async TP](https://discuss.pytorch.org/t/distributed-w-torchtitan-introducing-async-tensor-parallelism-in-pytorch/209487))
    - [Pipeline Parallel](https://discuss.pytorch.org/t/distributed-w-torchtitan-training-with-zero-bubble-pipeline-parallelism/214420)
    - [Context Parallel](https://discuss.pytorch.org/t/distributed-w-torchtitan-breaking-barriers-training-long-context-llms-with-1m-sequence-length-in-pytorch-using-context-parallel/215082)
 2. [Meta device](https://pytorch.org/docs/stable/meta.html) initialization
