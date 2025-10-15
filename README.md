@@ -65,7 +65,7 @@ To accelerate contributions to and innovations around torchtitan, we are hosting
 5. `torch.compile` support
 6. [Float8](https://discuss.pytorch.org/t/distributed-w-torchtitan-enabling-float8-all-gather-in-fsdp2/209323) support ([how-to](docs/float8.md))
 7. DDP and HSDP
-8. [TorchFT](https://github.com/pytorch/torchft) integration
+8. [TorchFT](https://github.com/meta-pytorch/torchft) integration
 9. Checkpointable data-loading, with the C4 dataset pre-configured (144M entries) and support for [custom datasets](docs/datasets.md)
 10. Gradient accumulation, enabled by giving an additional `--training.global_batch_size` argument in configuration
 11. Flexible learning rate scheduler (warmup-stable-decay)
